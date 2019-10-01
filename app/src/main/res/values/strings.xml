@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Converter</string>
+    <string name="amt">Amount in USD</string>
+    <string name="header">Currency Converter</string>
+    <string name="con_btn">Converter</string>
+    <string name="value">Value in LKR</string>
+</resources>
